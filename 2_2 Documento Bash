@@ -41,7 +41,7 @@
 	ls  listar los archivos dentro de una carpeta.
 	mv  mover un archivo.
 	cd  cambiar de directorio.
-	../
+	../ raiz
 	touch Crear un archivo
 	mkdir Crear una carpeta.
 	less  Mostrar contenido de un archivo.
