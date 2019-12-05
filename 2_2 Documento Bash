@@ -1,0 +1,39 @@
+- ¿Qué es el bash?
+  Es un shell creado por Bourne Again con interacion por texto en pantalla usando un teclado. En otras palabras es una ventana 
+  donde pones comandos para usar el sistema operativo o realizar alguna otra tarea, ya sea para navegar en los archivos,
+  descargar algo, crear archivos, entre muchas cosas basicas del sistema operativo. Está presente en la mayoria de los sistmas 
+  linux.
+  
+  
+- ¿Qué es shell?
+  Es un interprete de comandos o instrucciones para interactuar con el sistema operativo. El shell es el puente para llegar a
+  usar el sistema operativo, puede ser gráfico, por texto o natural.
+  
+    Ejemplos:
+
+    # Interfaz Gràfica (Ventanas, iconos, clicks,etc.)
+    # Bash, zsh, Simbolo del sistema
+    # Reconocimiento de voz
+    
+  
+- ¿Qué fue lo mas difícil sobre este tema?
+	Entender la diferencia de un shell y bash ,terminal o cualquier otro.
+	
+- ¿Pudiste usar todos los comandos del bash?
+   SI
+- En tu opinión, ¿cuales son los comandos mas importantes de aprender y por qué?
+
+   cd
+   mv
+   ls
+   clear
+   mkdir
+   rm 
+   sudo
+   cp
+   grep
+   
+   Son esenciales para poder moverte y hacer cosas básicas, como elimniar,crear carpeta o directorio y limpiar pantalla.
+   
+   
+   
