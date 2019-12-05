@@ -35,5 +35,18 @@
    
    Son esenciales para poder moverte y hacer cosas básicas, como elimniar,crear carpeta o directorio y limpiar pantalla.
    
-   
+- ¿Puedes recordar para que son los siguientes comandos?
+
+	pwd saber en que carpeta estas.
+	ls  listar los archivos dentro de una carpeta.
+	mv  mover un archivo.
+	cd  cambiar de directorio.
+	../
+	touch Crear un archivo
+	mkdir Crear una carpeta.
+	less  Mostrar contenido de un archivo.
+	rmdir Eliminar un directorio. forma 2 - > rm -r
+	rm    Eliminar un archivo
+	help  Ayuda. se puede usar / -> man   / para ver la documentacion.
+
    
