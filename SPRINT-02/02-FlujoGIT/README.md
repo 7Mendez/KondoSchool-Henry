@@ -6,8 +6,7 @@
  Si son registrados se guardan en un repositorio,en este caso usamos GIT.
 
 ![]()
-
-- Fase 1: “Working Directory”. ( Modificado )
+#### Fase 1: “Working Directory”. ( Modificado )
 
   En esta fase, es donde podemos crear, eliminar y cambiar lo que deseemos.
 
@@ -23,16 +22,25 @@
   imagen---
 
   para confirmar registrar nuestros archivos usamos:
-~~~
-$ git add .
-~~~
+  ~~~
+  $ git add .
+  ~~~
+
   Si queremos un archivo en especifico, entonces :
-~~~
+  ~~~
   $ git add <nombredelarchivo>
-~~~  
+  ~~~  
+
+  Dependiendo el branch que deseemos usar, yo usaré develop.
+
+  ~~~
+  $ git push origin <rama>
+  ~~~  
 
 
 
-- Fase 2: “Staging Area”. ( Preparado )
+
+
+#### Fase 2: “Staging Area”. ( Preparado )
 
 - Fase 3: "Git Repository". (Confirmado)
