@@ -19,7 +19,7 @@
  ~~~
   Nos dirá los registros que se han hecho.
 
-  imagen---
+
 
   para confirmar registrar nuestros archivos usamos:
   ~~~
