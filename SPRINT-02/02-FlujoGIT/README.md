@@ -6,7 +6,7 @@
  Si son registrados se guardan en un repositorio,en este caso usamos GIT.
 
 ![]()
-<img src="1.png" width="100">
+<img src="1.png" width="400">
 #### Fase 1: “Working Directory”. ( Modificado )
 
   En esta fase, es donde podemos crear, eliminar y cambiar lo que deseemos.
