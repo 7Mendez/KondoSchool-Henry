@@ -8,47 +8,47 @@
 ---
 #### Fase 0: Seguimiento de Archivos
 
-- Untracked: Archivo original el no tiene ningún Seguimiento.
+- Untracked: Archivo original que no tiene ningún Seguimiento.
 
 - Tracked: Archivos que tienen un registro de cambios.
 
 
 #### Fase 1: Working Directory( Modificado )
 
-  Aquí, es donde podemos crear, eliminar y cambiar los archivos que deseemos.
+  > En esta fase, es donde podemos crear, eliminar y cambiar los archivos que deseemos. Tenemos nuestros archivos listos para trackear.
 
-  >Tenemos nuestros archivos listos para trackear.
-  ><img src="/images/4.png" width="350">
+<img src="/images/4.png" width="350">
 
+  > Para ver los cambios realizados en nuestro repositorio, usamos:
  ~~~
  $ git status
  ~~~
 
-  > Nos dirá los registros que se han hecho.
-  <img src="/images/5.png" width="350">
-
-
-
-  para confirmar registrar nuestros archivos usamos:
-  ~~~
-  $ git add .
-  ~~~
-
-  Si queremos un archivo en especifico, entonces :
-  ~~~
-  $ git add <nombredelarchivo>
-  ~~~  
-
-  Dependiendo el branch que deseemos usar, yo usaré develop.
-
-  ~~~
-  $ git push origin <rama>
-  ~~~  
-
-
+<img src="/images/5.png" width="350">
 
 
 
 #### Fase 2: Staging Area ( Preparado )
 
+> Para registrar los cambios hechos, usamos:
+~~~
+$ git add .
+~~~
+<img src="/images/6.png" width="350">
+
+ >Si queremos un archivo en especifico, entonces :
+~~~
+$ git add <nombredelarchivo>
+~~~  
+
+
+>Como ves, use git status para verificar el estado de mis archivos.
+
 - Fase 3: "Git Repository". (Confirmado)
+
+
+Dependiendo el branch que deseemos usar, yo usaré develop.
+
+~~~
+$ git push origin <rama>
+~~~  
