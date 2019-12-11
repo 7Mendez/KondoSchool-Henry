@@ -13,13 +13,11 @@
 - Tracked: Archivos que tienen un registro de cambios.
 
 
+
 #### Fase 1: Working Directory( Modificado )
 
   > En esta fase, es donde podemos crear, eliminar y cambiar los archivos que deseemos. Tenemos nuestros archivos listos para trackear.
-
-<img src="/images/4.png">
-
-  > Para ver los cambios realizados en nuestro repositorio, usamos:
+  Para ver los cambios realizados en nuestro repositorio, usamos:
  ~~~
  $ git status
  ~~~
@@ -40,15 +38,18 @@ $ git add .
 $ git add <nombredelarchivo>
 ~~~  
 
-<img src="/images/6.png">
+<img src="/images/6.png" width="600" >
 
->Como ves, use git status para verificar el estado de mis archivos.
+>Como ves, usé git status para verificar el estado de mis archivos.
 
 #### Fase 3: "Git Repository". (Confirmado)
 
-
-Dependiendo el branch que deseemos usar, yo usaré develop.
+>Para subir o enviar nuestros cambios,usamos:
 
 ~~~
-$ git push origin <rama>
+$ git push origin <rama> o git push
 ~~~  
+<img src="/images/7.png" width="600">
+
+> En resumen, primero hacemos cambios, siguiente los registramos y los subimos al repositorio a esto se le llama flujo de trabajo en git .
+<img src="/images/flow.png" width="600">
