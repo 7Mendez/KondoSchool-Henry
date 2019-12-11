@@ -1,5 +1,5 @@
 # Flujo de Trabajo en GIT
-![git](/images/1.png)
+<img src="/images/1.png" width="300">
 
  GIT es un sistema de control de versiones, en otras palabras es un registrador de cambios de directorios y archivos.
 
