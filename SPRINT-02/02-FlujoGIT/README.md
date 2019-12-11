@@ -13,18 +13,20 @@
 
 - Untracked: Es cuando el archivo no tienes que llevar un registro de cambios.
 
+
 #### Fase 1: Working Directory( Modificado )
 
   Aquí, es donde podemos crear, eliminar y cambiar los archivos que deseemos.
 
-  Ejemplo:
-  Supongamos que tenemos listos nuestros archivos
-  listos para registrarlos.
+  >Tenemos nuestros archivos listos para trackear, en mi caso estos archivos tengo.
+  <img src="/images/4.png" width="350">
 
  ~~~
  $ git status
  ~~~
-  Nos dirá los registros que se han hecho.
+
+  > Nos dirá los registros que se han hecho.
+  <img src="/images/5.png" width="350">
 
 
 
