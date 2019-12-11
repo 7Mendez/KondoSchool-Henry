@@ -1,8 +1,9 @@
+<img src="/images/1.png" width="350">
+
 # Flujo de Trabajo en GIT
 
  GIT es un sistema de control de versiones, en otras palabras es un registrador de cambios de directorios y archivos.
 
-<img src="/images/1.png" width="300">
 
 ---
 #### Fase 0: Seguimiento de Archivos
