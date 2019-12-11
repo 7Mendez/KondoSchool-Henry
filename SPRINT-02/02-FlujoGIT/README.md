@@ -1,4 +1,4 @@
-<img src="/images/1.png" width="350">
+<img src="/images/1.png" width="250">
 
 # Flujo de Trabajo en GIT
 
@@ -7,19 +7,18 @@
 
 ---
 #### Fase 0: Seguimiento de Archivos
- Antes que nada ten en cuenta esto, los archivos:
 
-- Tracked: Es Registrar cambios que los archivo tengan.
+- Untracked: Archivo original el no tiene ningún Seguimiento.
 
-- Untracked: Es cuando el archivo no tienes que llevar un registro de cambios.
+- Tracked: Archivos que tienen un registro de cambios.
 
 
 #### Fase 1: Working Directory( Modificado )
 
   Aquí, es donde podemos crear, eliminar y cambiar los archivos que deseemos.
 
-  >Tenemos nuestros archivos listos para trackear, en mi caso estos archivos tengo.
-  <img src="/images/4.png" width="350">
+  >Tenemos nuestros archivos listos para trackear.
+  ><img src="/images/4.png" width="350">
 
  ~~~
  $ git status
