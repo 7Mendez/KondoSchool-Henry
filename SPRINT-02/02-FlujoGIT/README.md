@@ -34,17 +34,17 @@
 ~~~
 $ git add .
 ~~~
-<img src="/images/6.png">
 
- >Si queremos un archivo en especifico, entonces :
+ >Si queremos un archivo en especifico, usamos :
 ~~~
 $ git add <nombredelarchivo>
 ~~~  
 
+<img src="/images/6.png">
 
 >Como ves, use git status para verificar el estado de mis archivos.
 
-- Fase 3: "Git Repository". (Confirmado)
+#### Fase 3: "Git Repository". (Confirmado)
 
 
 Dependiendo el branch que deseemos usar, yo usaré develop.
