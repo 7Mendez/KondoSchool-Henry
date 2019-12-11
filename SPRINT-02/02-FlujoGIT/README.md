@@ -12,7 +12,7 @@
 
 - Tracked: Archivos que tienen un registro de cambios.
 
-
+---
 
 #### Fase 1: Working Directory( Modificado )
 
@@ -24,7 +24,7 @@
 
 <img src="/images/5.png" width="600">
 
-
+---
 
 #### Fase 2: Staging Area ( Preparado )
 
@@ -41,7 +41,7 @@ $ git add <nombredelarchivo>
 <img src="/images/6.png" width="600" >
 
 >Como ves, usé git status para verificar el estado de mis archivos.
-
+---
 #### Fase 3: "Git Repository". (Confirmado)
 
 >Para subir o enviar nuestros cambios,usamos:
@@ -50,6 +50,6 @@ $ git add <nombredelarchivo>
 $ git push origin <rama> o git push
 ~~~  
 <img src="/images/7.png" width="600">
-
+---
 > En resumen, primero hacemos cambios, siguiente los registramos y los subimos al repositorio a esto se le llama flujo de trabajo en git .
 <img src="/images/flow.png" width="600">
