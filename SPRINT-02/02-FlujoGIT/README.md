@@ -1,8 +1,7 @@
 # Flujo de Trabajo en GIT
-![git](/images/1.png)
+< img src="/images/1.png" width="300">
 
  GIT es un sistema de control de versiones, en otras palabras es un registrador de cambios de directorios y archivos.
-
 
 
 #### Fase 0: "TRACKED" o "UNTRACKED"
@@ -10,7 +9,7 @@
 
  UNTRACKED: Es cuando el archivo o directorio no tienes que llevar un registro de los cambios.
 
-<![]()
+![]()
 #### Fase 1: “Working Directory”. ( Modificado )
 
   En esta fase, es donde podemos crear, eliminar y cambiar lo que deseemos.
