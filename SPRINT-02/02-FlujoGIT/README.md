@@ -4,16 +4,17 @@
 
 <img src="/images/1.png" width="300">
 
+---
+#### Fase 0: Seguimiento de Archivos
+ Antes que nada ten en cuenta esto, los archivos:
 
-#### Fase 0: TRACKED y UNTRACKED
- TRACKED : Es Registrar cambios que los archivo y directorio hagan.
+- Tracked: Es Registrar cambios que los archivo tengan.
 
- UNTRACKED: Es cuando el archivo o directorio no tienes que llevar un registro de los cambios.
+- Untracked: Es cuando el archivo no tienes que llevar un registro de cambios.
 
-![]()
 #### Fase 1: Working Directory( Modificado )
 
-  En esta fase, es donde podemos crear, eliminar y cambiar lo que deseemos.
+  Aquí, es donde podemos crear, eliminar y cambiar los archivos que deseemos.
 
   Ejemplo:
   Supongamos que tenemos listos nuestros archivos
