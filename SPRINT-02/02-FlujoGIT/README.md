@@ -24,7 +24,7 @@
  $ git status
  ~~~
 
-<img src="/images/5.png" width="400">
+<img src="/images/5.png" width="600">
 
 
 
