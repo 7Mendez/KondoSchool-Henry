@@ -50,6 +50,8 @@ $ git add <nombredelarchivo>
 $ git push origin <rama> o git push
 ~~~  
 <img src="/images/7.png" width="600">
+
 ---
-> En resumen, primero hacemos cambios, siguiente los registramos y los subimos al repositorio a esto se le llama flujo de trabajo en git .
+
+>En resumen, primero hacemos cambios, siguiente los registramos y los subimos al repositorio a esto se le llama flujo de trabajo en git .
 <img src="/images/flow.png" width="600">
