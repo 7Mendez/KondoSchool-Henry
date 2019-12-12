@@ -16,7 +16,7 @@
 
 #### Fase 1: Working Directory( Modificado )
 
-  > En esta fase creamos o modificamos nuestros archivos pero sin comprometer nuestro repositorio. Tenemos nuestros archivos listos para trackear. Ejecutamos el comando git status, nos mostrará qué archivos han sido modificados (o creados).
+  > En esta fase creamos o modificamos nuestros archivos pero sin comprometer nuestro repositorio. Tenemos nuestros archivos listos para trackear. Ejecutamos el comando git status, nos mostrará los archivos que han sido modificados (o creados).
 
  ~~~
  $ git status
