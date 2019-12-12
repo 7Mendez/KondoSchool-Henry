@@ -42,6 +42,11 @@ $ git add <nombredelarchivo>
 
 #### Fase 2: Staging Area ( Preparado )
 
+> En esta fase, es donde damos nombre a la version o cambio de nuestro proyecto. Usando el comando:
+
+~~~
+$ git commit -m "Comentario o nombre"
+~~~  
 
 ---
 #### Fase 3: "Git Repository". (Confirmado)
