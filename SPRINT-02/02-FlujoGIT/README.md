@@ -16,19 +16,15 @@
 
 #### Fase 1: Working Directory( Modificado )
 
-  > En esta fase, es donde podemos crear, eliminar y cambiar los archivos que deseemos. Tenemos nuestros archivos listos para trackear.
-  Para ver los cambios realizados en nuestro repositorio, usamos:
+  > En esta fase creamos o modificamos nuestros archivos pero sin comprometer nuestro repositorio. Tenemos nuestros archivos listos para trackea. Ejecutamos el comando git status, nos mostrará qué archivos han sido modificados (o creados).
+
  ~~~
  $ git status
  ~~~
 
 <img src="/images/5.png" width="600">
 
----
-
-#### Fase 2: Staging Area ( Preparado )
-
-> Para registrar los cambios hechos, usamos:
+> Una vez que hemos hecho los cambios necesarios, registramos los cambios hechos,usando:
 ~~~
 $ git add .
 ~~~
@@ -41,13 +37,19 @@ $ git add <nombredelarchivo>
 <img src="/images/6.png" width="600" >
 
 >Como ves, usé git status para verificar el estado de mis archivos.
+
+---
+
+#### Fase 2: Staging Area ( Preparado )
+
+
 ---
 #### Fase 3: "Git Repository". (Confirmado)
 
->Para subir o enviar nuestros cambios,usamos:
+> Aquí es donde confirmamos el guardado de nuestros cambios, con un comentario para identificarlo en nuestra línea del tiempo o el historial de cambios en el repositorio. Para subir o enviar nuestros cambios,usamos:
 
 ~~~
-$ git push origin <rama> o git push
+$ git push origin <rama>
 ~~~  
 <img src="/images/7.png" width="600">
 
