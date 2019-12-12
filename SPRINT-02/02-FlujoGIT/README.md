@@ -48,7 +48,7 @@ $ git add <nombredelarchivo>
 $ git commit -m "Comentario o nombre"
 ~~~  
 
-
+<img src="/images/8.png" width="600" >
 
 ---
 #### Fase 3: "Git Repository". (Confirmado)
